@@ -1,5 +1,5 @@
 👋 Hey there, I'm William
-&nbsp;
+
       - I'm currently going to school at the University at Buffalo for a B.S. in Mathematics
       - I'm currently a SWE student studying at Flatiron School
       - I have previously interned and worked as a Mobile Developer
