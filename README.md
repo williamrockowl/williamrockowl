@@ -5,7 +5,7 @@
       - I have previously interned and worked as a Mobile Developer
       - I currently have an A.S. in Liberal Arts, Math & Sciences
       - I currently have a certification as a Full Stack Developer from a Community College Bootcamp
-      - I aspire to work and learn every aspect of programming (FrontEnd, BackEnd, Mobile, Game Dev, CyberSecurity, BlockChain, etc.)
+      - I aspire to work as and learn every aspect of programming (FrontEnd, BackEnd, Mobile, Game Dev, CyberSecurity, BlockChain, etc.)
       - I have collaborated on different projects and am working on self created ones
 
 <!---
